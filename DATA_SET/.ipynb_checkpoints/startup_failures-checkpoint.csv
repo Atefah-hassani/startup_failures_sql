@@ -1,0 +1,816 @@
+name,sector,start_year,end_year,years_operation_cleaned
+99dresses,Retail Trade,2010,2013,3
+Ahalife,Retail Trade,2010,2017,7
+Airy Labs,Information,2010,2012,2
+AllRomance,Retail Trade,2006,2016,10
+Ampush,Professional Scientific and Technical Services,2010,2023,13
+Anki,Manufacturing,2010,2019,9
+Aria Insights,Manufacturing,2008,2019,11
+Arivale,Health Care,2015,2019,4
+Aryballe,Manufacturing,2014,2022,8
+Ask Jeeves,Information,1996,2007,11
+Atrium,Professional Scientific and Technical Services,2017,2021,4
+Auctionata,Retail Trade,2012,2018,6
+Augury Books,Retail Trade,2012,2017,5
+Avant,Finance and Insurance,2012,2023,11
+Babble,Information,2006,2017,11
+Bebo,Information,2005,2019,14
+Beepi,Retail Trade,2013,2017,4
+BeRecruited,Information,2007,2019,12
+Better Place,Manufacturing,2007,2014,7
+Bina Technologies,Health Care,2011,2016,5
+BioViva,Health Care,2015,2021,6
+Bitpass,Finance and Insurance,2002,2008,6
+BlackJet,Transportation and Warehousing,2012,2017,5
+Block Party,Information,2020,2023,3
+Bloom Energy,Manufacturing,2001,2011,10
+Blurb,Manufacturing,2005,2020,15
+Blync,Information,2013,2018,5
+BountyJobs,Information,2006,2021,15
+Boxed,Retail Trade,2013,2021,8
+BranchOut,Information,2010,2017,7
+Breather,Real Estate and Rental and Leasing,2012,2021,9
+BrightFarms,Agriculture Forestry Fishing and Hunting,2011,2023,12
+Brit + Co,Information,2011,2021,10
+BufferBox,Transportation and Warehousing,2011,2015,4
+Burbn,Information,2010,2012,2
+Burstly,Information,2008,2014,6
+Butterfly Health,Health Care,2014,2019,5
+Cafe X,Accommodation and Food Services,2015,2021,6
+Cake Financial,Finance and Insurance,2006,2011,5
+Calxeda,Manufacturing,2008,2015,7
+Canary,Manufacturing,2012,2020,8
+Canvas,Information,2011,2017,6
+Carwoo,Retail Trade,2009,2015,6
+Catelyn,Retail Trade,2015,2018,3
+Caviar,Accommodation and Food Services,2012,2020,8
+Change.org,Information,2007,2022,15
+Chef’d,Accommodation and Food Services,2014,2019,5
+Chinictown,Retail Trade,2013,2017,4
+Chirp,Information,2011,2016,5
+ChowNow,Accommodation and Food Services,2011,2023,12
+Circle,Finance and Insurance,2013,2023,10
+Clarity Money,Finance and Insurance,2016,2022,6
+ClassPass,Arts Entertainment and Recreation,2013,2023,10
+Clever,Information,2012,2021,9
+ClickFacts,Professional Scientific and Technical Services,2005,2011,6
+Clinkle,Finance and Insurance,2011,2016,5
+Cloudera,Information,2008,2023,15
+CloudHammer,Information,2007,2012,5
+Clover,Accommodation and Food Services,2012,2020,8
+Club Penguin,Arts Entertainment and Recreation,2005,2017,12
+Cocoon,Information,2018,2022,4
+Codeacademy,Information,2011,2022,11
+Coinbase NFT,Finance and Insurance,2021,2023,2
+CollabFinder,Information,2011,2018,7
+Color Labs,Information,2011,2014,3
+Combatant Gentlemen,Retail Trade,2012,2020,8
+Connect,Information,2010,2016,6
+ContextLogic,Retail Trade,2010,2023,13
+Coub,Information,2012,2021,9
+Couchsurfing,Administrative and Support Services,2004,2020,16
+Covo,Real Estate and Rental and Leasing,2015,2020,5
+Crate,Retail Trade,2014,2018,4
+Crunchyroll,Information,2006,2021,15
+Curb Food,Accommodation and Food Services,2019,2023,4
+Curse,Information,2006,2020,14
+Cypress,Manufacturing,2014,2020,6
+DailyBurn,Arts Entertainment and Recreation,2007,2019,12
+Dailylook,Retail Trade,2011,2020,9
+Datto,Information,2007,2022,15
+Dealflicks,Arts Entertainment and Recreation,2012,2019,7
+Deem,Information,2000,2014,14
+Delight,Retail Trade,2012,2017,5
+Delivery Hero,Accommodation and Food Services,2011,2023,12
+Deskbeers,Accommodation and Food Services,2014,2019,5
+Detour,Information,2013,2019,6
+Digg,Information,2004,2018,14
+Din,Retail Trade,2013,2016,3
+Dinner Lab,Accommodation and Food Services,2011,2017,6
+Disruptive Media,Information,2012,2017,5
+Divshot,Information,2011,2016,5
+Domo,Information,2010,2023,13
+DoorDash Air,Transportation and Warehousing,2020,2023,3
+Doppler Labs,Manufacturing,2013,2018,5
+DormChat,Information,2014,2017,3
+Dot & Bo,Retail Trade,2013,2018,5
+Doximity,Health Care,2010,2022,12
+Drawbridge,Professional Scientific and Technical Services,2011,2021,10
+Drizly,Retail Trade,2012,2023,11
+Dropbox Paper,Information,2015,2021,6
+Drifty,Information,2012,2019,7
+DroneBase,Professional Scientific and Technical Services,2014,2022,8
+Drync,Retail Trade,2012,2019,7
+Dundee Venture,Finance and Insurance,2010,2020,10
+Dunwello,Information,2013,2018,5
+E la Carte,Accommodation and Food Services,2008,2019,11
+Earbits,Arts Entertainment and Recreation,2010,2018,8
+Ecomom,Retail Trade,2009,2013,4
+Eden,Administrative and Support Services,2015,2021,6
+Edmodo,Information,2008,2021,13
+EduKart,Information,2011,2018,7
+Egomotion,Arts Entertainment and Recreation,2012,2017,5
+Eko,Health Care,2013,2020,7
+Elance,Administrative and Support Services,1999,2014,15
+ElectricObjects,Retail Trade,2014,2020,6
+Elevate Labs,Information,2012,2022,10
+Ellipse,Manufacturing,2015,2020,5
+Embrace,Health Care,2012,2020,8
+Endomondo,Arts Entertainment and Recreation,2007,2019,12
+Enigma,Information,2011,2020,9
+Entrypoint,Information,2016,2020,4
+Envoy,Administrative and Support Services,2013,2020,7
+EpiBone,Health Care,2013,2021,8
+Etsy Wholesale,Retail Trade,2013,2020,7
+Eventbrite Britain,Arts Entertainment and Recreation,2014,2020,6
+Everalbum,Information,2013,2019,6
+Evernote,Information,2004,2019,15
+Every.me,Information,2012,2015,3
+Exec,Administrative and Support Services,2012,2015,3
+EyeEm,Information,2011,2023,12
+Fab.com,Retail Trade,2011,2018,7
+Factual,Information,2008,2022,14
+FameBit,Professional Scientific and Technical Services,2013,2019,6
+Famo.us,Information,2011,2017,6
+Fanduel Scotland,Arts Entertainment and Recreation,2012,2020,8
+FanDuel Sportsbook,Arts Entertainment and Recreation,2009,2024,15
+Fancy,Retail Trade,2010,2019,9
+Fanhattan,Information,2010,2016,6
+Fano,Information,2013,2017,4
+Fashism,Retail Trade,2009,2014,5
+Faze Medicines,Health Care,2019,2023,4
+Feather,Real Estate and Rental and Leasing,2017,2023,6
+Fieldbook,Information,2014,2019,5
+Fieldlens,Construction,2011,2018,7
+FiftyThree,Information,2011,2019,8
+Fiksu,Professional Scientific and Technical Services,2008,2018,10
+Filepicker,Information,2012,2018,6
+Firebase,Information,2011,2018,7
+Firefly,Transportation and Warehousing,2014,2019,5
+First Opinion,Health Care,2013,2019,6
+Fitbit Coach,Arts Entertainment and Recreation,2015,2021,6
+Fitmob,Arts Entertainment and Recreation,2013,2017,4
+Fiverr Gigs,Professional Scientific and Technical Services,2010,2021,11
+Fixya,Information,2005,2019,14
+Flashnotes,Information,2010,2016,6
+Fleksy,Information,2011,2019,8
+Flock,Information,2012,2017,5
+Flocu,Information,2015,2018,3
+Flowtab,Accommodation and Food Services,2011,2014,3
+Fobo,Retail Trade,2013,2017,4
+Foodler,Accommodation and Food Services,2004,2018,14
+Formspring,Information,2009,2016,7
+Foursquare Swarm,Information,2014,2021,7
+Framed Data,Information,2013,2016,3
+Freak’n Genius,Information,2011,2016,5
+Freeletics,Arts Entertainment and Recreation,2013,2023,10
+Frenzy,Retail Trade,2015,2019,4
+Freshdesk,Information,2010,2022,12
+Friend.ly,Information,2010,2013,3
+Friendster,Information,2002,2014,12
+Front Desk,Administrative and Support Services,2012,2018,6
+Frontback,Information,2013,2016,3
+Froyo,Information,2012,2016,4
+FundersClub,Finance and Insurance,2012,2022,10
+Fuze Network,Finance and Insurance,2010,2016,6
+Gametime,Arts Entertainment and Recreation,2013,2022,9
+Gawk Media,Information,2010,2016,6
+GazeHawk,Professional Scientific and Technical Services,2009,2014,5
+Geckoboard,Information,2010,2022,12
+Genuity,Information,1996,2001,5
+GeoCities,Information,1994,2005,11
+Getaround,Transportation and Warehousing,2011,2022,11
+GetGlue,Information,2008,2016,8
+Gigya,Information,2006,2018,12
+Gilt Taste,Retail Trade,2011,2016,5
+Gimlet,Information,2014,2021,7
+Ginger.io,Health Care,2011,2020,9
+Gnip,Information,2008,2019,11
+GoAnimate,Information,2007,2021,14
+Gobble,Accommodation and Food Services,2010,2019,9
+Goldbely,Retail Trade,2012,2019,7
+Good Eggs,Retail Trade,2011,2022,11
+Good Technology,Information,1996,2012,16
+Gowalla,Information,2007,2012,5
+Graze,Retail Trade,2008,2019,11
+Greenhouse.io,Information,2012,2022,10
+Grockit,Information,2007,2015,8
+Groupon Now,Retail Trade,2011,2015,4
+Grooveshark,Information,2006,2017,11
+GroupMe,Information,2010,2015,5
+Grubwithus,Accommodation and Food Services,2010,2015,5
+Guitar Hero Live,Arts Entertainment and Recreation,2015,2019,4
+Gusto,Administrative and Support Services,2012,2023,11
+Hailo,Transportation and Warehousing,2011,2018,7
+Handspring,Manufacturing,1998,2003,5
+Happn,Information,2014,2023,9
+Havenly,Retail Trade,2014,2023,9
+Heap,Information,2013,2023,10
+HealthSpot,Health Care,2010,2016,6
+Hello,Manufacturing,2012,2017,5
+HelloFresh Recipe,Accommodation and Food Services,2012,2020,8
+Heyday,Retail Trade,2018,2023,5
+HiGear,Transportation and Warehousing,2011,2013,2
+Highfive,Information,2012,2020,8
+Hipmunk,Administrative and Support Services,2010,2020,10
+Hired,Administrative and Support Services,2012,2021,9
+Hitpost,Information,2009,2013,4
+HobbyDB,Retail Trade,2014,2022,8
+Homejoy,Administrative and Support Services,2012,2016,4
+Homer,Information,2013,2019,6
+Homeslice,Real Estate and Rental and Leasing,2015,2019,4
+HootSuite Media,Information,2008,2023,15
+HopSkipDrive,Transportation and Warehousing,2014,2023,9
+Hot Potato,Information,2009,2011,2
+HotelTonight,Administrative and Support Services,2010,2021,11
+Houseparty,Information,2016,2021,5
+HowAboutWe,Information,2010,2018,8
+Huddle,Information,2006,2018,12
+Hulu Japan,Information,2011,2019,8
+Humanoid,Information,2012,2017,5
+Hush,Retail Trade,2016,2020,4
+Hyperloop One,Transportation and Warehousing,2014,2022,8
+I/O Docs,Information,2011,2015,4
+Ibotta,Retail Trade,2011,2022,11
+Iddiction,Information,2011,2014,3
+Ideeli,Retail Trade,2007,2016,9
+IFTTT,Information,2010,2022,12
+Imercive,Information,2010,2015,5
+Immersv,Professional Scientific and Technical Services,2015,2019,4
+Import.io,Information,2012,2022,10
+Improvonia,Arts Entertainment and Recreation,2013,2018,5
+InBloom,Information,2011,2014,3
+Incredibowl,Retail Trade,2010,2015,5
+Indiegogo Life,Finance and Insurance,2014,2019,5
+Inkling,Information,2009,2020,11
+Instagram Live,Information,2016,2021,5
+Instacart Express,Retail Trade,2012,2020,8
+Instapaper,Information,2008,2020,12
+Intent Media,Professional Scientific and Technical Services,2008,2018,10
+Intercom,Information,2011,2023,12
+Intuit QuickBase,Information,1999,2014,15
+Invision,Information,2011,2023,12
+Ipsy,Retail Trade,2011,2023,12
+IRL,Information,2018,2023,5
+Iroko,Arts Entertainment and Recreation,2010,2021,11
+Isentium,Finance and Insurance,2012,2020,8
+Ista,Retail Trade,2013,2018,5
+Jawbone,Manufacturing,1999,2017,18
+Jetpac,Information,2011,2016,5
+Jibo,Manufacturing,2012,2018,6
+Jive Software,Information,2001,2015,14
+Jobr,Administrative and Support Services,2014,2019,5
+Jolt,Information,2014,2020,6
+Joyent,Information,2004,2017,13
+Juicero,Manufacturing,2013,2017,4
+Jukin Media,Information,2011,2021,10
+JumpTime,Information,2010,2015,5
+Juniper Square,Real Estate and Rental and Leasing,2014,2022,8
+JustFab,Retail Trade,2010,2022,12
+Karma,Retail Trade,2012,2018,6
+Katerra,Construction,2015,2022,7
+Keen IO,Information,2011,2019,8
+Keybase,Information,2014,2021,7
+Khan Academy Lite,Information,2014,2020,6
+Kicksend,Information,2011,2017,6
+Kik,Information,2009,2022,13
+Kiko,Information,2005,2008,3
+Kinnek,Retail Trade,2012,2020,8
+Kippt,Information,2012,2017,5
+Kiwi,Information,2011,2015,4
+Klout,Information,2008,2017,9
+Knewton,Information,2008,2020,12
+Kno,Information,2009,2014,5
+Koding,Information,2011,2019,8
+Koji,Information,2016,2021,5
+Kozmo.com,Retail Trade,1998,2002,4
+KPCB Edge,Finance and Insurance,2015,2020,5
+KweekWeek,Arts Entertainment and Recreation,2012,2017,5
+Lanyrd,Information,2010,2017,7
+Latergramme,Information,2012,2017,5
+Layer,Information,2013,2019,6
+Leap Transit,Transportation and Warehousing,2013,2016,3
+LearnUp,Information,2011,2017,6
+LendUp,Finance and Insurance,2012,2020,8
+LendingClub,Finance and Insurance,2006,2021,15
+LendLayer,Finance and Insurance,2013,2017,4
+Liftopia,Arts Entertainment and Recreation,2005,2019,14
+LightSail Energy,Manufacturing,2008,2016,8
+Limbix,Health Care,2016,2022,6
+LinkedIn Lite,Information,2015,2020,5
+Lit Motors,Manufacturing,2010,2021,11
+Livefyre,Information,2007,2016,9
+LiveLoop,Information,2010,2015,5
+LiveMint,Information,2012,2017,5
+LiveScribe,Manufacturing,2007,2020,13
+LiveSpace,Information,2013,2017,4
+Loom,Information,2011,2018,7
+Loom.ai,Information,2016,2021,5
+Loop Commerce,Retail Trade,2012,2021,9
+Lot18,Retail Trade,2010,2018,8
+Lovely,Real Estate and Rental and Leasing,2012,2018,6
+Loyal3,Finance and Insurance,2008,2018,10
+Luxe,Transportation and Warehousing,2014,2019,5
+Lyft Line,Transportation and Warehousing,2013,2019,6
+Mailbox,Information,2012,2015,3
+Maker Media,Information,2005,2019,14
+Mandrill,Information,2012,2019,7
+Maple,Accommodation and Food Services,2014,2019,5
+Marissa Mayer’s Yahoo,Information,2012,2017,5
+Markafoni,Retail Trade,2008,2018,10
+Massdrop,Retail Trade,2012,2022,10
+Matter.io,Information,2013,2018,5
+Mattermark,Information,2012,2019,7
+Maven,Health Care,2015,2020,5
+Mayvenn,Retail Trade,2013,2022,9
+Me.me,Information,2015,2019,4
+Medicast,Health Care,2013,2018,5
+Medium One,Information,2014,2020,6
+Meetup WeWork,Information,2019,2023,4
+Memebox,Retail Trade,2012,2021,9
+Memolane,Information,2010,2013,3
+Memrise,Information,2010,2022,12
+Mention,Information,2012,2020,8
+Mesh,Information,2015,2020,5
+Meta AR,Manufacturing,2018,2023,5
+Meteor,Information,2011,2020,9
+Milk,Information,2011,2014,3
+MindSumo,Information,2011,2021,10
+Mint Songs,Arts Entertainment and Recreation,2020,2023,3
+Mixpanel,Information,2009,2023,14
+Mobi,Transportation and Warehousing,2012,2017,5
+Mobli,Information,2010,2017,7
+ModCloth,Retail Trade,2002,2017,15
+Moment,Information,2014,2020,6
+Mondo Robot,Professional Scientific and Technical Services,2006,2020,14
+Monetate,Professional Scientific and Technical Services,2008,2021,13
+Money360,Finance and Insurance,2012,2020,8
+MongoHQ,Information,2008,2016,8
+Monitor110,Finance and Insurance,2005,2008,3
+Monstercat,Arts Entertainment and Recreation,2011,2023,12
+Moo,Manufacturing,2006,2021,15
+Moodstocks,Information,2008,2016,8
+Moon Express,Transportation and Warehousing,2010,2021,11
+Moped,Information,2012,2017,5
+Mophie,Manufacturing,2005,2018,13
+Movable Ink,Professional Scientific and Technical Services,2010,2022,12
+MoveLoot,Retail Trade,2013,2017,4
+Mozido,Finance and Insurance,2008,2017,9
+Munchery,Accommodation and Food Services,2010,2018,8
+Music.ly,Information,2014,2018,4
+MyFitnessPal,Arts Entertainment and Recreation,2005,2019,14
+MyMiniLife,Information,2006,2010,4
+MySpace,Information,2003,2018,15
+Nanosolar,Manufacturing,2002,2014,12
+Nasty Gal,Retail Trade,2006,2017,11
+Nebula,Information,2018,2024,6
+Nestio,Real Estate and Rental and Leasing,2011,2020,9
+NetBooks,Information,2006,2011,5
+Netscape,Information,1994,2003,9
+NewsTilt,Information,2010,2012,2
+Nextbit,Manufacturing,2013,2017,4
+NextCaller,Information,2012,2021,9
+Nextdoor Local,Information,2018,2023,5
+Nimble,Information,2009,2019,10
+Ninja Metrics,Information,2010,2017,7
+Noom Coach,Health Care,2008,2020,12
+Nosh,Accommodation and Food Services,2013,2017,4
+Notion AI,Information,2018,2023,5
+Nuzzel,Information,2012,2019,7
+ODesk,Administrative and Support Services,2003,2015,12
+OfferUp Local,Retail Trade,2015,2021,6
+Oink,Information,2011,2013,2
+Olive,Health Care,2012,2022,10
+Olo,Accommodation and Food Services,2005,2020,15
+Omaze UK,Arts Entertainment and Recreation,2015,2021,6
+Omnity,Information,2015,2021,6
+Omnivis,Health Care,2017,2022,5
+One Kings Lane,Retail Trade,2009,2019,10
+One Month,Information,2013,2022,9
+OneFineStay,Administrative and Support Services,2010,2020,10
+OneLogin,Information,2009,2021,12
+OneSignal,Information,2014,2022,8
+OnSwipe,Information,2011,2017,6
+OpenAirplane,Transportation and Warehousing,2012,2017,5
+OpenPeak,Information,2002,2013,11
+Opera Solutions,Professional Scientific and Technical Services,2004,2018,14
+Operator,Retail Trade,2015,2020,5
+Optimizely,Information,2010,2022,12
+Orbeus,Information,2012,2018,6
+Orchard,Real Estate and Rental and Leasing,2017,2023,6
+OrderAhead,Accommodation and Food Services,2011,2017,6
+Origami Labs,Information,2011,2016,5
+Osmo,Information,2013,2020,7
+Ouya,Manufacturing,2012,2016,4
+Outbox,Transportation and Warehousing,2012,2015,3
+Outdoor Voices,Retail Trade,2013,2022,9
+Ouya,Manufacturing,2012,2016,4
+OverDrive,Information,1986,2001,15
+OwnLocal,Professional Scientific and Technical Services,2010,2020,10
+Oyster,Information,2012,2016,4
+Pager,Health Care,2014,2021,7
+Pair,Information,2012,2015,3
+PandoDaily,Information,2012,2019,7
+Panorama Education,Information,2012,2022,10
+Paperless Post,Information,2008,2021,13
+Parse,Information,2011,2016,5
+Path,Information,2010,2018,8
+Patreon Events,Arts Entertainment and Recreation,2017,2022,5
+Pawngo,Finance and Insurance,2011,2017,6
+Pay By Touch,Finance and Insurance,2002,2007,5
+Pebble,Manufacturing,2012,2020,8
+Peek,Administrative and Support Services,2012,2022,10
+Peerby,Retail Trade,2012,2021,9
+Periscope,Information,2015,2020,5
+PetCube,Retail Trade,2012,2020,8
+Pets.com,Retail Trade,1998,2000,2
+Photobucket,Information,2003,2018,15
+Photonics,Manufacturing,2014,2021,7
+Pi,Information,2018,2022,4
+Piazza,Information,2009,2021,12
+Picnik,Information,2005,2012,7
+Pinger,Information,2005,2018,13
+Pinterest UK,Information,2012,2020,8
+Pipelinedeals,Information,2006,2020,14
+Piston Cloud,Information,2011,2017,6
+Pixate,Information,2012,2016,4
+Pixelpipe,Information,2008,2013,5
+Placements.io,Professional Scientific and Technical Services,2014,2021,7
+Plancast,Information,2009,2014,5
+PlanGrid,Construction,2011,2020,9
+PlateJoy,Health Care,2013,2021,8
+PlayHaven,Information,2008,2015,7
+Plex,Information,2008,2023,15
+Plum,Retail Trade,2014,2020,6
+Plum District,Retail Trade,2010,2017,7
+Plum Will,Finance and Insurance,2015,2020,5
+Plume Labs,Manufacturing,2014,2021,7
+Pocket,Information,2007,2018,11
+Pockethunt,Real Estate and Rental and Leasing,2016,2020,4
+Podster,Information,2015,2020,5
+Polarr,Information,2014,2022,8
+Poll Everywhere,Information,2007,2022,15
+Polyvore,Retail Trade,2007,2019,12
+PonoMusic,Arts Entertainment and Recreation,2012,2017,5
+PopSugar Shop,Retail Trade,2015,2021,6
+Portfolium,Information,2013,2020,7
+Poshmark UK,Retail Trade,2012,2020,8
+Postmates X,Transportation and Warehousing,2018,2023,5
+PostRocket,Information,2011,2014,3
+PoundPay,Finance and Insurance,2009,2013,4
+PowerReviews,Information,2005,2018,13
+Preact,Information,2012,2018,6
+Predilytics,Professional Scientific and Technical Services,2011,2016,5
+Pressly,Information,2011,2018,7
+Presto,Accommodation and Food Services,2015,2020,5
+Priceonomics,Information,2012,2022,10
+Prismatic,Information,2012,2017,5
+Pro.com,Construction,2014,2020,6
+Product Hunt Games,Information,2018,2023,5
+ProntoPiso,Real Estate and Rental and Leasing,2017,2023,6
+ProPublica Data,Information,2012,2020,8
+Pulse,Information,2010,2017,7
+Punch’d,Information,2011,2014,3
+Puppet Labs,Information,2005,2019,14
+PureWow,Information,2010,2021,11
+Push IO,Information,2007,2015,8
+Quibb,Information,2013,2019,6
+Quid,Information,2008,2020,12
+Quirky,Manufacturing,2009,2019,10
+Quixey,Information,2009,2017,8
+QuizUp,Arts Entertainment and Recreation,2013,2020,7
+Quora Credits,Information,2014,2019,5
+Qwiki,Information,2010,2015,5
+RadPad,Real Estate and Rental and Leasing,2012,2017,5
+Raise,Retail Trade,2013,2022,9
+Rap Genius,Information,2009,2020,11
+Readability,Information,2009,2015,6
+ReadyForZero,Finance and Insurance,2010,2017,7
+RebelMail,Information,2014,2020,6
+Reclip,Information,2015,2018,3
+RecruitLoop,Administrative and Support Services,2012,2020,8
+RedBeacon,Administrative and Support Services,2008,2015,7
+Refresh,Information,2011,2016,5
+Remix,Transportation and Warehousing,2014,2021,7
+Rent the Runway UK,Retail Trade,2015,2021,6
+RentJuice,Real Estate and Rental and Leasing,2008,2012,4
+Replit Teams,Information,2018,2023,5
+RescueTime,Information,2006,2021,15
+RetailMeNot UK,Retail Trade,2012,2020,8
+Retention Science,Professional Scientific and Technical Services,2012,2021,9
+Rev,Administrative and Support Services,2010,2022,12
+ReverbNation,Arts Entertainment and Recreation,2006,2021,15
+Revolution Foods,Accommodation and Food Services,2006,2021,15
+RethinkDB,Information,2009,2019,10
+Rethink Robotics,Manufacturing,2008,2018,10
+Retro,Information,2014,2019,5
+Ridejoy,Transportation and Warehousing,2011,2014,3
+Riffsy,Information,2013,2019,6
+Rigetti Computing,Manufacturing,2013,2021,8
+Ringly,Retail Trade,2013,2019,6
+Ritual,Accommodation and Food Services,2014,2022,8
+Rockmelt,Information,2009,2014,5
+Rogue,Arts Entertainment and Recreation,2015,2021,6
+Room 77,Administrative and Support Services,2010,2017,7
+Roominate,Manufacturing,2012,2018,6
+RoverPass,Administrative and Support Services,2014,2021,7
+RunKeeper,Arts Entertainment and Recreation,2008,2020,12
+RushCard,Finance and Insurance,2003,2018,15
+RxRobots,Health Care,2010,2018,8
+Sailthru,Professional Scientific and Technical Services,2008,2020,12
+SaleMove,Professional Scientific and Technical Services,2012,2021,9
+Samba TV,Information,2008,2020,12
+Sampling Lab,Retail Trade,2013,2017,4
+Say Media,Information,2005,2017,12
+ScaleFactor,Professional Scientific and Technical Services,2014,2019,5
+Scoop,Transportation and Warehousing,2015,2021,6
+Screenhero,Information,2012,2017,5
+Secret,Information,2014,2018,4
+Seed,Finance and Insurance,2012,2017,5
+Selltag,Retail Trade,2013,2016,3
+SendGrid Labs,Information,2015,2023,8
+Sense,Manufacturing,2014,2020,6
+Sensible,Finance and Insurance,2016,2020,4
+SetJam,Information,2009,2013,4
+ShareThis,Information,2007,2020,13
+Shelfari,Information,2006,2015,9
+SherpaShare,Transportation and Warehousing,2014,2020,6
+Shoobs,Arts Entertainment and Recreation,2012,2021,9
+ShopKeep,Retail Trade,2008,2020,12
+Shopkick,Retail Trade,2009,2020,11
+ShopSavvy,Retail Trade,2008,2020,12
+Shoptiques,Retail Trade,2012,2020,8
+ShoreTel,Information,1996,2008,12
+Shyp,Transportation and Warehousing,2013,2018,5
+Sidecar,Transportation and Warehousing,2012,2018,6
+Sidekick,Information,2015,2020,5
+SigFig,Finance and Insurance,2007,2018,11
+SilkRoad,Administrative and Support Services,2003,2017,14
+Simple,Finance and Insurance,2009,2016,7
+Singly,Information,2011,2016,5
+Skillshare Classes,Information,2015,2023,8
+Skully,Manufacturing,2013,2017,4
+Skybox Imaging,Professional Scientific and Technical Services,2009,2019,10
+Skype Qik,Information,2014,2017,3
+Slack Fund,Finance and Insurance,2015,2020,5
+Slice,Retail Trade,2010,2021,11
+Slidely,Information,2012,2021,9
+Slock.it,Information,2015,2020,5
+SmartAsset,Finance and Insurance,2012,2023,11
+Smartling,Professional Scientific and Technical Services,2009,2021,12
+Snapchat Spectacles,Manufacturing,2016,2021,5
+SnipSnap,Retail Trade,2012,2019,7
+Snowball,Information,2014,2018,4
+SoFi Social,Finance and Insurance,2016,2021,5
+Songkick Detour,Arts Entertainment and Recreation,2015,2020,5
+Songza,Information,2007,2017,10
+Sosh,Arts Entertainment and Recreation,2011,2019,8
+SoundCloud Go,Arts Entertainment and Recreation,2016,2022,6
+SoundFocus,Information,2012,2017,5
+Soundwave,Information,2012,2016,4
+Spaces,Real Estate and Rental and Leasing,2015,2020,5
+SpaFinder,Administrative and Support Services,2001,2016,15
+Spark,Information,2013,2020,7
+Spartan Radar,Manufacturing,2018,2023,5
+Spectralux,Health Care,2015,2021,6
+Sphero,Manufacturing,2010,2022,12
+Spindle,Information,2011,2015,4
+Spoke,Information,2015,2021,6
+SpoonRocket,Accommodation and Food Services,2013,2017,4
+Spotify Stations,Arts Entertainment and Recreation,2019,2023,4
+Sprig,Accommodation and Food Services,2013,2017,4
+Spring,Retail Trade,2013,2019,6
+Sprinklr,Professional Scientific and Technical Services,2009,2021,12
+Sprout,Information,2008,2016,8
+Sprout Social Lite,Information,2018,2023,5
+Square Cash,Finance and Insurance,2013,2020,7
+Sublime,Information,2015,2020,5
+Substack Local,Information,2020,2023,3
+SumAll,Information,2011,2019,8
+Sumo Logic,Information,2010,2022,12
+Sunrun,Construction,2007,2022,15
+Superhuman,Information,2015,2022,7
+Supershuttle,Transportation and Warehousing,1983,1998,15
+SurveyMonkey Contribute,Information,2015,2020,5
+Swarm,Information,2014,2020,6
+Swiftype,Information,2012,2020,8
+Swrve,Information,2010,2021,11
+Symphony Commerce,Retail Trade,2011,2018,7
+Synack,Information,2013,2023,10
+Tinder Social,Information,2016,2021,5
+Taboola News,Information,2015,2023,8
+Tagged,Information,2004,2019,15
+Tailgate,Arts Entertainment and Recreation,2015,2020,5
+Talech,Retail Trade,2012,2022,10
+Tango,Information,2009,2020,11
+TaskRabbit UK,Administrative and Support Services,2015,2021,6
+Tastemade Travel,Arts Entertainment and Recreation,2017,2022,5
+Tasty Labs,Information,2009,2014,5
+Taulia,Finance and Insurance,2009,2022,13
+Tavour,Retail Trade,2013,2022,9
+Teamable,Administrative and Support Services,2015,2022,7
+Teespring,Retail Trade,2011,2021,10
+TellApart,Professional Scientific and Technical Services,2009,2018,9
+Tellme,Information,1999,2011,12
+Tempo,Arts Entertainment and Recreation,2015,2021,6
+Tend,Health Care,2019,2023,4
+TenderTree,Administrative and Support Services,2012,2018,6
+Tenta,Information,2015,2020,5
+Tessel,Manufacturing,2013,2019,6
+The Grid,Information,2014,2020,6
+The Hunt,Retail Trade,2012,2018,6
+The RealReal UK,Retail Trade,2015,2021,6
+The Shelf,Professional Scientific and Technical Services,2013,2020,7
+Theranos,Health Care,2003,2018,15
+ThingLink,Information,2006,2018,12
+ThinkUp,Information,2010,2017,7
+Thread,Retail Trade,2012,2020,8
+Threadless Artist Shops,Retail Trade,2015,2021,6
+ThredUp Goody,Retail Trade,2018,2023,5
+ThriftBooks Indie,Retail Trade,2015,2020,5
+Thrillist Rewards,Retail Trade,2013,2018,5
+Thrive Market Organic,Retail Trade,2018,2023,5
+Thumb,Information,2011,2015,4
+Thumbtack Local,Administrative and Support Services,2015,2023,8
+Ticketfly,Arts Entertainment and Recreation,2008,2020,12
+Tilt,Finance and Insurance,2012,2018,6
+Timehop,Information,2011,2020,9
+Tinderbox,Information,2014,2019,5
+Ting,Information,2012,2020,8
+Tiny Speck,Information,2009,2014,5
+TinyChat,Information,2009,2018,9
+Titan Aerospace,Manufacturing,2011,2017,6
+ToVieFor,Retail Trade,2010,2015,5
+Todoist Business,Information,2018,2023,5
+Toggl,Information,2006,2021,15
+TokBox,Information,2007,2018,11
+Tonx,Accommodation and Food Services,2012,2017,5
+Toopher,Information,2011,2018,7
+Top Hat,Information,2009,2022,13
+Topix,Information,2004,2018,14
+Toptal Designers,Professional Scientific and Technical Services,2015,2021,6
+Topsy,Information,2007,2015,8
+Toshl,Finance and Insurance,2008,2020,12
+Tout,Information,2010,2016,6
+Traackr,Professional Scientific and Technical Services,2008,2020,12
+Tractable,Professional Scientific and Technical Services,2014,2022,8
+Trada,Professional Scientific and Technical Services,2008,2015,7
+TradeGecko,Retail Trade,2012,2021,9
+Tradesy,Retail Trade,2012,2021,9
+Trapit,Information,2011,2019,8
+Treehouse,Information,2011,2022,11
+Trello Gold,Information,2017,2022,5
+Triad,Retail Trade,2015,2020,5
+Triggermail,Information,2013,2018,5
+Triplet Therapeutics,Health Care,2018,2022,4
+TripIt Pro,Administrative and Support Services,2015,2023,8
+Tripod,Information,1992,2000,8
+Trunk Club,Retail Trade,2010,2019,9
+TrustEgg,Finance and Insurance,2012,2016,4
+Try.com,Retail Trade,2018,2022,4
+Tubefilter,Information,2008,2021,13
+TuneIn Premium,Arts Entertainment and Recreation,2015,2021,6
+Turntable.fm,Arts Entertainment and Recreation,2011,2016,5
+Tutorspree,Information,2011,2015,4
+Twilio SendGrid,Information,2015,2023,8
+Twist,Information,2011,2018,7
+Twitch Squads,Arts Entertainment and Recreation,2018,2022,4
+Twitter Fabric,Information,2014,2020,6
+Twitter Music,Information,2013,2015,2
+Uber Rush,Transportation and Warehousing,2015,2020,5
+Udacity Blitz,Information,2017,2022,5
+Udemy Free,Information,2015,2023,8
+Ueno,Professional Scientific and Technical Services,2015,2021,6
+Unbounce,Professional Scientific and Technical Services,2009,2021,12
+Uncharted Play,Manufacturing,2011,2019,8
+Uncrate,Retail Trade,2005,2020,15
+Understory,Professional Scientific and Technical Services,2014,2022,8
+UnifyID,Information,2015,2021,6
+Unroll.me,Information,2011,2019,8
+Untappd Events,Arts Entertainment and Recreation,2015,2021,6
+UpCounsel,Professional Scientific and Technical Services,2012,2021,9
+UpOut,Arts Entertainment and Recreation,2011,2017,6
+Upstart,Finance and Insurance,2012,2023,11
+Upworthy Insider,Information,2015,2020,5
+Urban Airship,Information,2009,2021,12
+UrbanSitter,Administrative and Support Services,2012,2023,11
+UserVoice,Information,2007,2020,13
+Ustream,Information,2007,2019,12
+Vamp,Professional Scientific and Technical Services,2015,2021,6
+Vanhawks,Manufacturing,2013,2019,6
+Vator,Information,2006,2018,12
+Vayable,Administrative and Support Services,2011,2020,9
+Vdio,Information,2013,2015,2
+Vedere Bio II,Health Care,2020,2023,3
+Vemo,Finance and Insurance,2015,2021,6
+Venmo Groups,Finance and Insurance,2015,2020,5
+Vesper,Information,2014,2019,5
+Vessel,Information,2013,2017,4
+Videology,Professional Scientific and Technical Services,2007,2019,12
+Vidme,Information,2014,2018,4
+Viewdle,Information,2006,2013,7
+Viki,Information,2007,2018,11
+Vine,Information,2012,2017,5
+Viper,Information,2014,2020,6
+Virta Health,Health Care,2014,2022,8
+Virtustream,Information,2008,2020,12
+VisiCalc,Information,1979,1984,5
+VisualDNA,Professional Scientific and Technical Services,2006,2017,11
+Vittana,Finance and Insurance,2008,2015,7
+Vive,Health Care,2016,2021,5
+VocalIQ,Information,2011,2017,6
+Vodio,Information,2011,2015,4
+Vook,Information,2009,2017,8
+Wag,Administrative and Support Services,2015,2022,7
+Wanderu,Administrative and Support Services,2012,2022,10
+Washio,Administrative and Support Services,2013,2017,4
+Wattpad Futures,Arts Entertainment and Recreation,2016,2021,5
+Wavely,Information,2016,2021,5
+Wavii,Information,2009,2013,4
+WayUp,Administrative and Support Services,2014,2022,8
+Wealthfront Cash,Finance and Insurance,2018,2023,5
+Wealthsimple Trade,Finance and Insurance,2017,2023,6
+Weave,Information,2014,2022,8
+Webvan,Retail Trade,1996,1999,3
+Weebly Carbon,Information,2018,2023,5
+WellnessFX,Health Care,2011,2020,9
+Wepay,Finance and Insurance,2008,2020,12
+Wesabe,Finance and Insurance,2006,2011,5
+WhatRunsWhere,Professional Scientific and Technical Services,2011,2020,9
+Whisper,Information,2012,2020,8
+Whiteboard,Information,2015,2020,5
+WhoSay,Information,2010,2019,9
+Wickr,Information,2012,2020,8
+WigWag,Manufacturing,2013,2019,6
+Wildfire,Professional Scientific and Technical Services,2008,2015,7
+WillCall,Arts Entertainment and Recreation,2011,2016,5
+Willo,Health Care,2018,2023,5
+Wimm Labs,Manufacturing,2008,2013,5
+Wink,Manufacturing,2014,2021,7
+Wise,Finance and Insurance,2011,2023,12
+Wishbone,Information,2013,2019,6
+Wit.ai,Information,2013,2017,4
+Wittlebee,Retail Trade,2012,2015,3
+WizIQ,Information,2007,2021,14
+Womply,Professional Scientific and Technical Services,2011,2021,10
+Woo,Information,2013,2018,5
+Wooden,Retail Trade,2016,2020,4
+Woot,Retail Trade,2004,2016,12
+Workable,Administrative and Support Services,2012,2022,10
+Workboard,Information,2013,2021,8
+WorkMarket,Administrative and Support Services,2010,2021,11
+WorldMate,Administrative and Support Services,2000,2014,14
+Woven,Information,2016,2021,5
+Xmarks,Information,2006,2014,8
+Xobni,Information,2006,2013,7
+Y Combinator Research,Professional Scientific and Technical Services,2015,2020,5
+Yahoo Answers,Information,2005,2020,15
+Yahoo Buzz,Information,2008,2012,4
+Yahoo Groups,Information,1998,2013,15
+Yahoo Live,Information,2008,2010,2
+Yammer,Information,2008,2018,10
+Yandex Kit,Information,2014,2019,5
+YayPay,Finance and Insurance,2015,2021,6
+Ycharts,Finance and Insurance,2009,2021,12
+Yelp Deals,Retail Trade,2011,2019,8
+Yext Answers,Information,2018,2023,5
+Yik Yak,Information,2013,2018,5
+Yo,Information,2014,2018,4
+Yodle,Professional Scientific and Technical Services,2005,2018,13
+Yog,Information,2014,2019,5
+Yola,Information,2007,2020,13
+Yotpo Reviews,Professional Scientific and Technical Services,2015,2023,8
+YouNow,Arts Entertainment and Recreation,2011,2022,11
+YourMechanic,Administrative and Support Services,2012,2021,9
+YPlan,Arts Entertainment and Recreation,2012,2018,6
+Zapier Plus,Information,2018,2023,5
+Zappos Labs,Retail Trade,2013,2018,5
+Zaarly,Retail Trade,2011,2017,6
+Zagster,Transportation and Warehousing,2007,2017,10
+Zappos Local,Retail Trade,2015,2020,5
+Zencoder,Information,2010,2017,7
+Zendesk Chat,Information,2015,2023,8
+Zenefits,Administrative and Support Services,2013,2021,8
+Zerigo Health,Health Care,2018,2023,5
+ZestFinance,Finance and Insurance,2009,2019,10
+Zesty,Accommodation and Food Services,2012,2019,7
+Ziddu,Information,2007,2019,12
+Zillow Offers,Real Estate and Rental and Leasing,2018,2022,4
+Zimperium,Information,2010,2020,10
+Zing,Retail Trade,2013,2018,5
+Zocdoc Local,Health Care,2015,2023,8
+Zoho Show,Information,2015,2020,5
+Zola Books,Retail Trade,2013,2019,6
+Zomato Base,Accommodation and Food Services,2015,2020,5
+Zombie Labs,Information,2015,2020,5
+Zoomdata,Information,2012,2021,9
+Zopim,Information,2008,2016,8
+Zscaler Shift,Information,2018,2023,5
+Zulily,Retail Trade,2009,2019,10
+Zume,Manufacturing,2015,2022,7
+Zumper Pro,Real Estate and Rental and Leasing,2015,2021,6
+Zurb,Professional Scientific and Technical Services,1998,2013,15
+Zuuka,Information,2009,2017,8
+Zvents,Arts Entertainment and Recreation,2005,2014,9
+Zynstra,Information,2012,2020,8
+Zynga Games,Arts Entertainment and Recreation,2007,2019,12

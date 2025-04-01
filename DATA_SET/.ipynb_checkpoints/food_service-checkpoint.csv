@@ -1,0 +1,28 @@
+name,sector,Giants ,no_budget,competition,poor_market_fit,acquisition_stagnation,high_operational_costs,monetization_failure,niche_limits,execution_flaws,trend_shifts,start_year,end_year,amount_raised
+Cafe X,Accommodation and Food Services,0,1,0,1,1,0,1,0,0,0,2015,2021,15
+Caviar,Accommodation and Food Services,0,1,0,1,0,1,0,0,0,0,2012,2020,90
+Chef’d,Accommodation and Food Services,0,1,0,1,0,0,1,0,0,0,2014,2019,35
+ChowNow,Accommodation and Food Services,1,0,1,0,0,0,0,0,0,0,2011,2023,64
+Clover,Accommodation and Food Services,0,1,0,1,0,0,1,0,1,0,2012,2020,20
+Curb Food,Accommodation and Food Services,0,1,0,1,0,0,1,0,0,1,2019,2023,10
+Dinner Lab,Accommodation and Food Services,0,0,1,0,1,0,1,0,0,0,2011,2017,10
+Flowtab,Accommodation and Food Services,0,0,1,0,1,0,0,0,0,0,2011,2014,2
+Foodler,Accommodation and Food Services,1,0,1,0,1,0,0,0,0,0,2004,2018,5
+Grubwithus,Accommodation and Food Services,0,0,1,0,1,0,1,0,0,0,2010,2015,8
+Maple,Accommodation and Food Services,0,1,0,1,0,0,1,0,0,0,2014,2019,50
+Munchery,Accommodation and Food Services,0,1,0,1,0,0,1,0,0,1,2010,2018,125
+Nosh,Accommodation and Food Services,0,1,1,1,0,0,1,0,0,0,2013,2017,5
+OrderAhead,Accommodation and Food Services,1,0,1,0,1,0,0,0,0,1,2011,2017,10
+Presto,Accommodation and Food Services,0,0,0,1,1,0,1,0,0,0,2015,2020,30
+Revolution Foods,Accommodation and Food Services,0,0,0,1,0,0,1,0,0,0,2006,2021,120
+Ritual,Accommodation and Food Services,1,1,0,1,0,0,1,0,0,0,2014,2022,135
+SpoonRocket,Accommodation and Food Services,0,1,1,1,0,0,0,1,0,0,2013,2017,13
+Sprig,Accommodation and Food Services,0,1,0,1,0,0,1,0,0,0,2013,2017,57
+Tonx,Accommodation and Food Services,1,0,0,0,1,0,0,0,0,0,2012,2017,4
+Zesty,Accommodation and Food Services,0,1,0,1,0,0,1,1,0,0,2012,2019,20
+Zomato Base,Accommodation and Food Services,0,0,1,0,0,0,0,0,0,0,2015,2020,660
+Deskbeers,Accommodation and Food Services,0,1,1,0,0,0,0,0,1,0,2014,2019,1
+HelloFresh Recipe,Accommodation and Food Services,0,0,1,0,0,0,0,0,0,0,2012,2020,300
+Tavour,Accommodation and Food Services,1,0,0,0,0,0,0,1,0,0,2013,2022,10
+Tastemade Travel,Accommodation and Food Services,0,1,0,1,1,0,0,0,0,0,2017,2022,80
+Zesty,Accommodation and Food Services,0,1,0,1,0,0,1,1,0,0,2012,2019,20

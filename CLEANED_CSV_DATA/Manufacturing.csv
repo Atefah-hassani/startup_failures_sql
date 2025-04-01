@@ -1,0 +1,31 @@
+name,sector,amount_raised,giants,no_budget,competition,poor_market_fit,acquisition_stagnation,platform_dependency,monetization_failure,niche_limits,execution_flaws,trend_shifts,trust_issue,regulatory_pressure,overhype,start_year,end_year
+Airware,Manufacturing,70,1,1,1,0,0,0,0,0,0,0,0,0,0,2011,2018
+Anki,Manufacturing,200,1,1,1,0,0,0,0,0,0,0,0,0,0,2010,2019
+Aptera Motors,Manufacturing,40,1,0,1,1,0,0,0,0,0,0,0,0,0,2005,2011
+Aria Insights,Manufacturing,39,1,0,1,1,0,0,0,1,0,0,0,0,0,2008,2019
+August Home,Manufacturing,73,1,0,1,0,1,0,0,0,0,0,0,0,0,2012,2017
+BeagleBone,Manufacturing,5,1,0,1,1,0,0,0,1,0,0,0,0,0,2011,2018
+Better Place,Manufacturing,850,1,1,1,0,0,0,0,0,0,0,0,0,0,2007,2013
+Butterfly Network,Manufacturing,400,1,1,1,1,0,0,0,0,0,0,0,0,0,2011,2020
+Cubelets,Manufacturing,10,1,0,1,1,0,0,0,1,0,0,0,0,0,2011,2020
+Dyson's EV Project,Manufacturing,2.7,1,1,1,0,0,0,0,0,0,0,0,0,1,2017,2019
+Elio Motors,Manufacturing,30,1,0,1,0,0,0,0,0,1,0,0,0,0,2009,2020
+Essential Products,Manufacturing,330,1,1,1,0,0,0,0,0,0,0,0,0,1,2015,2020
+Faraday Future,Manufacturing,3.5,1,1,1,0,0,0,0,0,1,0,0,0,1,2014,2023
+Fisker Automotive,Manufacturing,1.4,1,1,1,0,0,1,0,0,1,0,0,0,0,2007,2013
+GoPro Karma,Manufacturing,200,1,0,1,0,0,0,0,0,1,0,0,0,0,2015,2018
+Hello,Manufacturing,40,1,0,1,0,0,0,0,0,0,1,0,0,0,2012,2017
+Jawbone,Manufacturing,930,1,0,1,0,0,0,0,0,0,1,0,0,0,2006,2017
+Juicero,Manufacturing,120,1,1,1,0,0,0,0,0,1,1,0,0,0,2013,2017
+Light,Manufacturing,70,1,1,1,0,0,0,0,0,0,1,0,0,0,2013,2020
+Lily Robotics,Manufacturing,49,1,1,1,0,0,0,0,0,1,0,0,0,1,2013,2017
+Lytro,Manufacturing,200,1,1,1,0,0,0,0,0,0,1,0,0,0,2006,2018
+MakerBot,Manufacturing,413,1,0,1,0,1,0,0,0,1,0,0,0,0,2009,2017
+Osmo Systems,Manufacturing,3,1,0,1,1,0,0,0,1,0,0,0,0,0,2013,2020
+Pearl Automation,Manufacturing,50,1,0,1,1,0,0,0,0,0,0,0,0,0,2014,2017
+Pebble,Manufacturing,40,1,0,1,0,1,0,0,0,0,0,0,0,0,2012,2016
+Quanergy,Manufacturing,160,1,1,1,0,0,0,0,0,0,0,0,0,0,2012,2022
+Rethink Robotics,Manufacturing,150,1,1,1,0,0,0,0,0,0,0,0,0,0,2008,2018
+Skully Helmets,Manufacturing,15,1,1,1,0,0,0,0,0,1,0,0,0,1,2013,2016
+Thalmic Labs,Manufacturing,135,1,0,1,0,1,0,0,0,0,0,0,0,0,2012,2020
+Zume,Manufacturing,375,1,1,1,0,0,0,0,0,0,0,0,0,0,2015,2023

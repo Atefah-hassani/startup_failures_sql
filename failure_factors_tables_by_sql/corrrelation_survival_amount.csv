@@ -1,0 +1,8 @@
+funding_level,total_failed_startups,avg_survival_years,min_survival_years,max_survival_years
+$50M-$100M,16,9.75,6,15
+$500M-$1B,3,9.00,4,12
+$10M-$50M,31,8.00,4,15
+>$1B,683,7.71,2,18
+$100M-$500M,24,7.71,2,13
+$1M-$10M,52,5.90,3,15
+<$1M,6,4.67,2,7

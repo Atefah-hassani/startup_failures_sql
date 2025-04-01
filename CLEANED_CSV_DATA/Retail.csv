@@ -1,0 +1,91 @@
+name,sector,amount_raised,no_budget,competition,poor_market_fit,acquisition_stagnation,platform_dependency,monetization_failure,niche_limits,execution_flaws,trend_shifts,trust_issue,regulatory_pressure,overhype,start_year,end_year
+99dresses,Retail Trade,0.5,0,1,0,1,0,0,0,1,0,0,0,0,2010,2013
+Ahalife,Retail Trade,20,1,0,1,0,0,0,1,1,0,0,0,0,2010,2017
+AllRomance,Retail Trade,1,1,1,0,0,0,0,1,0,1,0,0,0,2006,2016
+Auctionata,Retail Trade,95,,1,0,1,0,0,0,0,0,1,0,1,2012,2018
+Augury Books,Retail Trade,0.5,1,1,0,0,0,0,0,1,0,0,0,0,2012,2017
+Beepi,Retail Trade,150,1,1,0,0,0,0,1,0,1,0,0,0,2013,2017
+Boxed,Retail Trade,326,1,0,1,0,0,0,1,0,0,0,0,0,2013,2021
+BurstIQ,Retail Trade,5.8,0,0,1,1,0,0,0,1,0,0,0,1,2015,2022
+Carwoo,Retail Trade,15,0,1,1,0,0,0,0,0,0,0,0,0,2009,2015
+Catelyn,Retail Trade,2,0,0,1,1,0,0,0,1,0,0,0,0,2015,2018
+Chinictown,Retail Trade,1,1,1,0,0,0,0,1,0,0,0,0,0,2013,2017
+Combatant Gentlemen,Retail Trade,35,1,0,1,0,0,0,0,0,1,0,0,0,2012,2020
+ContextLogic,Retail Trade,1.8,1,0,1,0,0,0,0,0,0,1,1,0,2010,2023
+Crate,Retail Trade,4,0,1,0,1,0,0,0,1,0,0,0,0,2014,2018
+Din,Retail Trade,3,1,1,1,0,0,0,0,1,0,0,0,0,2013,2016
+Dot & Bo,Retail Trade,20,1,0,1,0,0,0,0,0,1,0,0,0,2013,2018
+Drizly,Retail Trade,120,1,0,1,0,1,0,0,0,0,0,0,1,2012,2023
+Drync,Retail Trade,7,0,0,1,0,0,0,1,1,0,0,0,0,2012,2019
+Ecomom,Retail Trade,12,1,1,0,0,0,0,0,0,1,0,1,0,2009,2013
+ElectricObjects,Retail Trade,6,1,1,0,1,0,0,0,1,0,0,0,0,2014,2020
+Fab.com,Retail Trade,336,1,0,1,0,0,0,0,0,1,0,0,0,2011,2018
+Fancy,Retail Trade,80,1,0,0,0,0,0,1,0,0,0,0,0,2010,2019
+Fashism,Retail Trade,5,1,0,0,1,0,0,0,1,0,0,0,0,2009,2014
+Fiksu,Retail Trade,17,1,0,0,0,0,1,0,0,0,0,0,0,2008,2018
+Fobo,Retail Trade,2,1,0,1,1,0,0,0,0,0,0,0,0,2013,2017
+Gilt Taste,Retail Trade,250,0,0,0,0,1,0,1,1,0,0,0,0,2011,2016
+Goldbely,Retail Trade,33,1,0,1,0,0,0,1,0,0,0,0,0,2012,2019
+Good Eggs,Retail Trade,200,1,0,1,0,0,0,0,0,1,0,0,0,2011,2022
+Graze,Retail Trade,10,1,0,0,0,1,0,0,0,0,0,0,0,2008,2019
+Groupon Now,Retail Trade,950,1,0,1,0,0,0,0,0,0,1,0,0,2011,2015
+Havenly,Retail Trade,85,0,1,0,0,0,0,0,0,0,0,0,0,2014,2023
+Heyday,Retail Trade,25,1,0,1,0,0,0,0,0,1,0,0,0,2018,2023
+HobbyDB,Retail Trade,8,1,0,0,0,0,0,0,1,0,0,0,0,2014,2022
+Homejoy,Retail Trade,40,0,0,1,0,0,0,0,0,1,0,1,1,2012,2016
+Hush,Retail Trade,5,0,0,1,0,0,0,0,1,0,0,0,0,2016,2020
+Ibotta,Retail Trade,13,0,0,1,0,0,0,0,0,0,0,0,0,2011,2022
+Imercive,Retail Trade,2,1,1,0,1,0,0,0,0,0,0,0,0,2010,2015
+Incredibowl,Retail Trade,1,1,0,0,0,0,0,0,1,0,0,0,0,2010,2015
+Ipsy,Retail Trade,100,1,0,1,0,0,0,0,0,0,0,0,0,2011,2023
+Ista,Retail Trade,3,0,0,1,1,0,0,0,0,0,0,0,0,2013,2018
+JustFab,Retail Trade,76,1,0,1,0,0,0,0,0,0,0,1,0,2010,2022
+Karma,Retail Trade,5,0,0,1,0,0,0,0,1,0,0,0,0,2012,2018
+Kozmo.com,Retail Trade,110,1,1,0,0,0,0,1,0,0,1,0,0,1998,2002
+Lot18,Retail Trade,10,0,0,1,0,0,0,1,1,0,0,0,0,2010,2018
+Markafoni,Retail Trade,15,0,0,1,0,0,0,0,0,1,0,0,0,2008,2018
+Massdrop,Retail Trade,20,1,0,0,0,0,0,0,1,0,0,0,0,2012,2022
+Mayvenn,Retail Trade,40,1,0,0,0,0,0,0,1,1,0,0,0,2013,2022
+Memebox,Retail Trade,60,1,0,1,0,0,0,0,0,0,0,0,0,2012,2021
+ModCloth,Retail Trade,80,1,0,0,0,1,0,0,0,1,0,0,0,2002,2017
+MoveLoot,Retail Trade,22,1,1,0,0,0,0,1,1,0,0,0,0,2013,2017
+Nasty Gal,Retail Trade,160,0,0,1,0,0,0,0,0,1,0,1,0,2006,2017
+One Kings Lane,Retail Trade,225,1,0,1,0,0,0,0,0,1,0,0,0,2009,2019
+Operator,Retail Trade,10,1,0,0,1,0,0,0,0,0,0,0,0,2015,2020
+Outdoor Voices,Retail Trade,75,0,0,1,0,0,0,0,0,1,0,0,0,2013,2022
+Peerby,Retail Trade,5,1,0,0,1,0,0,0,0,0,0,0,0,2012,2021
+PetCube,Retail Trade,13,1,0,0,0,0,0,0,1,0,0,0,0,2012,2020
+Pets.com,Retail Trade,300,1,1,0,0,0,0,1,0,0,1,0,0,1998,2000
+Plum,Retail Trade,8,1,0,0,1,0,0,0,1,0,0,0,0,2014,2020
+Plum District,Retail Trade,10,0,0,1,0,0,0,0,0,0,1,0,0,2010,2017
+PopSugar Shop,Retail Trade,15,1,0,0,0,0,0,0,1,0,0,0,0,2015,2021
+Poshmark UK,Retail Trade,70,0,0,1,0,0,0,0,0,0,0,0,0,2012,2020
+Quirky,Retail Trade,79,1,0,0,0,0,0,0,0,1,1,0,0,2009,2019
+Raise,Retail Trade,60,1,0,0,0,0,0,1,0,0,0,0,0,2013,2022
+Rent the Runway UK,Retail Trade,500,0,0,1,1,0,0,0,0,0,0,0,0,2015,2021
+RetailMeNot UK,Retail Trade,300,0,0,1,0,0,0,0,0,0,1,0,0,2012,2020
+Sampling Lab,Retail Trade,2,1,0,0,0,0,0,0,1,0,0,0,0,2013,2017
+Selltag,Retail Trade,1,1,0,0,1,0,0,0,0,0,0,0,0,2013,2016
+ShopKeep,Retail Trade,35,0,0,1,0,0,0,0,0,0,0,0,0,2008,2020
+Shopkick,Retail Trade,15,1,1,0,0,1,1,0,0,0,0,0,0,2009,2020
+Shoptiques,Retail Trade,10,1,0,0,0,0,0,0,1,0,0,0,0,2012,2020
+Slice,Retail Trade,15,1,0,0,1,0,0,0,0,0,0,0,0,2010,2021
+Spring,Retail Trade,65,1,0,0,0,0,0,0,0,1,0,0,0,2013,2019
+Teespring,Retail Trade,55,1,0,0,0,0,0,1,0,0,0,0,0,2011,2021
+ThredUp Goody,Retail Trade,300,0,0,1,1,0,0,0,0,0,0,0,0,2018,2023
+ThriftBooks Indie,Retail Trade,5,1,0,0,0,0,0,0,1,0,0,0,0,2015,2020
+Thrillist Rewards,Retail Trade,10,1,0,0,1,0,0,0,0,0,0,0,0,2013,2018
+Thrive Market Organic,Retail Trade,150,1,0,1,0,0,0,0,0,1,0,0,0,2018,2023
+ToVieFor,Retail Trade,2,0,0,1,0,0,0,0,0,0,1,0,0,2010,2015
+Tradesy,Retail Trade,75,0,0,1,0,0,0,0,1,0,0,0,0,2012,2021
+Trunk Club,Retail Trade,17,1,0,1,0,1,0,0,0,0,0,0,0,2010,2019
+Try.com,Retail Trade,10,1,0,0,1,0,0,0,0,0,0,0,0,2018,2022
+Webvan,Retail Trade,122,1,1,0,0,0,0,1,0,1,1,0,0,1996,1999
+Wittlebee,Retail Trade,3,1,0,0,1,0,0,0,1,0,0,0,0,2012,2015
+Woot,Retail Trade,5,,1,0,0,0,1,0,0,0,0,1,0,2004,2016
+Yelp Deals,Retail Trade,500,0,0,1,0,0,0,0,0,0,1,0,0,2011,2019
+Zaarly,Retail Trade,15,0,0,1,0,0,0,0,1,0,0,0,0,2011,2017
+Zappos Labs,Retail Trade,1.5,1,0,0,0,0,0,0,0,0,0,0,0,2013,2018
+Zappos Local,Retail Trade,1.5,1,0,0,1,0,0,0,0,0,0,0,0,2015,2020
+Zing,Retail Trade,3,1,0,0,0,0,0,0,1,0,0,0,0,2013,2018
+Zola Books,Retail Trade,10,1,0,0,0,0,0,0,1,0,0,0,0,2013,2019
